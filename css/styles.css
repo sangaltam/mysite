@@ -1,0 +1,158 @@
+a{
+    color: #01663d;
+    text-decoration: none;
+}
+body{
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 5.652rem;
+    line-height: 1.5;
+    color: #01663d;
+
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.5rem;
+    
+    color: #01663d;
+    
+    
+}
+h3{
+    
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5rem;
+    color: #01663d;
+    
+}
+.top-container{
+    background-color:#558776;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 150px;
+    position: relative;
+}
+.middle-container{
+    margin: 100px 0 0 0;
+  
+    
+
+   
+}
+.bottom-container{
+    padding-bottom: 20px;
+    padding-top: 50px;
+    background-color:#558776;
+  
+}
+.bottom-cloud{
+    width: 180px;
+    height: auto;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+
+   
+}
+
+.bottom-cloud2{
+    width: 180px;
+    height: auto;
+    position: absolute;
+    top: 30px;
+    left: 600px;
+
+   
+}
+.footer-link{
+    padding-top: 50px;
+    font-size: 23px;
+   
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.footer-name{
+    margin-bottom: 0;
+    padding-top: 50px;
+}
+.developer{
+    font-weight: normal;
+}
+.forest-image{
+    margin-top: 20px;
+    margin-bottom: -5px;
+    width: 100%;
+    height: auto;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #01663d;
+    border-width: 5px;
+    width: 10%;
+    margin: 100px auto;
+}
+.top-cloud{
+    width: 180px;
+    height: auto;
+    position:absolute;
+    top: 100px;
+    right: 200px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.programming-img{
+    margin-right: 30px;
+    float: left;
+    height: auto;
+    width: 23%;
+}
+.profile{
+    margin-bottom: 100px;
+}
+.contact-me{
+    margin-bottom: 100px;
+    
+}
+.talk{
+    margin-bottom: 150px;
+}
+.btn{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    border-radius: 2;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: aqua;
+    color: #01663d;
+    padding: 20px;
+    line-height: 2;
+
+    background-color: aqua;
+}
+
+.communication-img{
+    margin-bottom: 0px;
+    margin-left: 30px;
+    float: right;
+    height: auto;
+    width: 23%;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+p{
+    font-size: 1.5rem;
+}
+
